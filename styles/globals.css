@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+    @apply p-6 max-w-sm mx-auto bg-white rounded-xl shadow-md flex items-center
+}
